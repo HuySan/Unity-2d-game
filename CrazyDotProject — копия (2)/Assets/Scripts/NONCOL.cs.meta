@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b9be69edf6d677543bfa546e347ac8d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EdjeCol: {fileID: 1575703178916200, guid: a943c627891790d498497478eaefc5aa, type: 2}
+  - Xcol: {fileID: 1914030751706022, guid: d0b18f5a9f1f09549bdb01c9eb245f98, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
